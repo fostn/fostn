@@ -3,7 +3,7 @@
   <img src="Image.GIF">
 </p>
 
-#     Github stats
+# Github stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fostn&theme=dark&show_icons=true" />
 
