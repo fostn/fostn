@@ -3,7 +3,7 @@
   <img src="Image.GIF">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fostn&show_icons=true&icon_color=CE1D2D&text_color=000000_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fostn&show_icons=&theam=dark" />
 
 <p align="center">
   <a href="https://twitter.com/0xf09l" target="_blank">
