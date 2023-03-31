@@ -1,6 +1,6 @@
 # Hey, I'm fostn!
 <p align="center">
-  <img src="Image.GIF">
+  <img src="image.GIF">
 </p>
 
 # Github stats
