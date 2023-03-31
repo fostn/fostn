@@ -1,6 +1,6 @@
 # Hey, I'm fostn!
 <p align="center">
-  <img src="image.GIF" border-radius: 25px;>
+  <img src="image.GIF"; border: 2px; border-radius: 25px;>
 </p>
 
 # Github stats
