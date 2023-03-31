@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 Just playing with python 
 
 
