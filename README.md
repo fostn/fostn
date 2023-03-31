@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://t.me/ifostn" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=00000" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=000000" alt="Instagram"/>
   </a>
 </p>
