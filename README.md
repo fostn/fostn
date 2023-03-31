@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Skull.gif">
+  <img src="Skull.GIV">
 </p>
 
 <p align="center">
