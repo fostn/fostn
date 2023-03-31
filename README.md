@@ -1,6 +1,6 @@
 # Hey, I'm fostn!
 <p align="center">
-  <img src="Skull.GIF">
+  <img src="Eye.GIF">
 </p>
 
 <p align="center">
