@@ -5,6 +5,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fostn alt=fostn /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fostn&show_icons=true&include_all_commits=true)](https://github.com/fostn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fostn&layout=compact)](https://github.com/fostn/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fostn&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/fostn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fostn&theme=dark&layout=compact)](https://github.com/fostn/github-readme-stats)
 
