@@ -1,5 +1,9 @@
 ## Hey 👋, This is fostn
 
+<p align="center">
+  <img width="250" src="image.GIF">
+</p>
+
 
 <h4 align="center"><samp>Do not give up , The beginning is always the hardest.</samp></h4>
 
