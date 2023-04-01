@@ -1,18 +1,10 @@
-# <h1>hi , i'm fostn <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-# ✨ About Me:
-interested in cyber security & programming 
+## Hey 👋, This is fostn
+[![Gmail Badge](https://img.shields.io/badge/-contact.fostn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.fostn@gmail.com)](mailto:contact.fostn@gmail.com) 
+[![instagram Badge](https://img.shields.io/badge/-@f09l-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/f09l)
+[![telegram Badge](https://img.shields.io/badge/-@ifostn-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/ifostn) [![Github Badge](https://img.shields.io/badge/-fostn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fostn/)](https://www.github.com/fostn/) [![Twitter Badge](https://img.shields.io/badge/-0xf09l-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/0xf09l/)](https://www.twitter.com/0xf09l/) <p align='left'>interested in cyber security 💻 & programming ☕️</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=fostn alt=fostn /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f09l) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fostn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xf09l) 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fostn&show_icons=true&include_all_commits=true)](https://github.com/fostn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fostn&layout=compact)](https://github.com/fostn/github-readme-stats)
 
-
-## 📊Github Stats
-
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=fostn"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fostn&theme=dark" /></a>
-  <a href="https://github.com/fostn"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fostn&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-[![](https://visitcount.itsvg.in/api?id=fostn&icon=2&color=0)](https://visitcount.itsvg.in)
