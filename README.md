@@ -1,7 +1,7 @@
 ## Hey 👋, This is fostn
 
 <p align="center">
-  <img width="250" src="image.GIF">
+  <img width="400" src="Image.GIF">
 </p>
 
 
