@@ -1,6 +1,8 @@
 ## Hey 👋, This is fostn
 
 
+<h4 align="center"><samp>Do not give up , The beginning is always the hardest.</samp></h4>
+
 # 🚸 About Me
 interested in cyber security 💻 & programming ☕️</p>
 
