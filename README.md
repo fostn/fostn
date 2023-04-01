@@ -9,7 +9,7 @@ interested in cyber security & programming
 ## 📊Github Stats
 
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=fostn"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=dark" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=fostn"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fostn&theme=dark" /></a>
   <a href="https://github.com/fostn"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fostn&theme=dark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
