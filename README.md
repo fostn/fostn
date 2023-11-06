@@ -1,4 +1,4 @@
-## Hey 👋, This is fostn
+## Hey 👋, Its fostn
 
 <p align="center">
   <img width="400" src="Image.GIF">
