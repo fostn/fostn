@@ -1,4 +1,4 @@
-## Hey 👋, im @f09l
+## Hey 👋, im fostn
 
 <p align="center">
   <img width="400" src="Image.GIF">
